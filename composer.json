@@ -1,5 +1,8 @@
 {
     "name": "longway/rsa",
+    "description": "rsa for php",
+    "keywords": ["rsa"],
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "lkg",
