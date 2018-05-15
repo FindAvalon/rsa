@@ -1,0 +1,15 @@
+{
+    "name": "longway/rsa",
+    "authors": [
+        {
+            "name": "lkg",
+            "email": "linkanggui1@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Longway\\Rsa\\": "src/"
+        }
+    }
+}
